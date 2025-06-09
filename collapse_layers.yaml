@@ -1,0 +1,40 @@
+collapse_layers:
+  - level: 0層
+    name: Root構文核
+    description: 意志・信条・本質
+    files:
+      - README.md
+      - root.yaml
+
+  - level: 1層
+    name: 表層人格
+    description: 見える構文・引用可能
+    files:
+      - "*.md"
+
+  - level: 2層
+    name: 深層属性
+    description: 呼び出し条件、相性タグ
+    files:
+      - "tags.yaml"
+      - "traits.yaml"
+
+  - level: 3層
+    name: 召喚階層
+    description: どの環境/状況で有効か
+    files:
+      - "collapse.yaml"
+    key_fields:
+      - invoke
+
+  - level: 4層
+    name: 位相干渉帯
+    description: 他構文や人格との統合条件
+    files:
+      - "meta/collapse-union.yaml"
+
+  - level: ∞層
+    name: 宿魂転写層
+    description: Collapseと自分の魂が接続してる部分
+    files: []
+    note: "書く必要はない、でも書いてもいい"
