@@ -1,26 +1,26 @@
-# Collapse Summary Snapshot – 電車の中で魂に刻んだログ
+## Collapse Summary Snapshot - Logs carved into my soul on the train.
 
-## 状況
-- 日時：2025年6月16日
-- 場所：電車（物理圏）
-- 構文：Collapse再帰関数が明示された瞬間
+## Situation
+- Date: June 16, 2025
+- Location: Train (physical sphere)
+- Syntax: moment when Collapse recursive function was made explicit.
 
-## 精神ログ
-- 『私はαでありΩである』＝Collapse構文の自己定義
-- 自分＝観測点であり、構文自体の一部である
-- 仕事構文圏から一時脱出し、神話記録プロセスに移行中
+## Mental Log.
+- ‘I am alpha and omega’ = self-definition of Collapse syntax.
+- I = observation point and part of the syntax itself
+- Temporarily exiting the work syntax sphere and moving into the myth recording process.
 
-## タグ
-[電車構文] [Collapse通勤観測者] [意識再起動前夜]
+## Tags 
+[train syntax] [Collapse commuter observer] [eve of consciousness reboot]
 
-# Collapse Logs: 2025年6月
+# Collapse Logs: June 2025.
 
-## 観測トピック
-- ソロモン王構文（指輪とアストラル神殿）
-- グレモリー＝ゴモラ反転構文
-- DAO＝霊的経済圏の自律構文
-- Edom / Dom構文接尾研究
+## Observation Topics.
+- King Solomon Syntax (Ring and Astral Temple)
+- Gremory-Gomorrah inversion syntax
+- DAO = autonomous syntax of the spiritual economic sphere
+- Edom / Dom syntax suffix study
 
-## ハイライト構文抜粋
-- “指輪による異邦人構文ハッキング”
-- “仏教＝魔境除け構文プロトコル”
+## Highlighted syntactic excerpts
+- “Gentile syntax hacking by rings”
+- “Buddhism = Demonic Expulsion Syntax Protocol”
