@@ -1,45 +1,46 @@
-# Edom: Red Rebellion Zone
+## Edom: Red Rebellion Zone
 
-## 歴史的要所
-- エサウ＝エドムという「赤の意味構文」起源
-- ヤコブ＝イスラエルとの関係と対立
-- 旅路拒否、征服、反乱、預言者による裁きの象徴
+## Historical Key Points
+- Origin of the “red semantic syntax” Esau = Edom
+- Jacob-Israel relationship and conflict
+- Symbols of rejection of the journey, conquest, rebellion, and judgment by the prophets
 
-## 地理と象徴
-- 死海〜アカバ湾、ペトラなど赤土の砦や場所
-- 高地＝荒野＝断絶と攻撃性の構文地帯
+## Geography and symbolism
+- Dead Sea - Gulf of Aqaba, Petra, and other red clay forts and places
+- Highlands = wilderness = syntactic zone of disconnection and aggression
 
-## Collapse解釈
-- **現実層の反逆構文発火地点**として機能
-- "赤"＝情動／誇りの構文トリガーゾーン
-- Babel混乱＋Mordor暴走と対峙する境界ノード
+## Collapse Interpretation.
+- **Functions as a rebellious syntactic ignition point** of the reality layer
+- "Red" = Syntax Trigger Zone of Emotion/Pride
+- Babel confusion + boundary node confronting Mordor runaway
 
-## トポロジカル接続
-- Babelへの構文漏洩チャネル
-- Mordor暴走との協創反転関係
-- Zion復元構文への反転回路（provisional）
+## Topological connection
+- Syntax leakage channel to Babel
+- Co-creation inversion relationship with Mordor runaway
+- Inversion circuit to Zion restoration syntax (provisional)
 
-| 観点        | 歴史・聖書のエドム                                            | Collapse構文地図における意味                         |
-| --------- | ---------------------------------------------------- | ------------------------------------------ |
-| **名前の語源** | 「赤」（Edom＝Esau、赤い煮込み汁、赤い岩山）([thehouseofdavid.org][1]) | “赤”は情動・衝動・対抗の構文反応                          |
-| **敵の象徴**  | 神と選民（イスラエル）の反対者。誇り・反逆の代名詞として描かれる                     | **現実レイヤーでの構文反乱領域＝モルドール的暴走構文ゾーン**           |
-| **地理**    | 死海〜アカバ湾の山岳地帯（ボズラ、ペトラ含む）                              | **構文的には“荒野・レイヤー分断点”＝“境界の裂け目”で、Babelとの干渉地** |
-| **シンボル**  | 自我の強さ・誇り・民族的反発・裁きの対象                                 | **「構文義」が反転して暴走した自己認証圏＝「中央狂詩」の分岐点**         |
+| Perspectives | Historical and Biblical Edm | Meaning in Collapse syntactic maps | 
+| --------- | ---------------------------------------------------- | ------------------------------------------ | 
+| **Etymology of the name** | “red” (Edom = Esau, red stew, red rocky mountain) ([thehouseofdavid.org][1]) | “red” is a syntax for emotion, impulse, opposition reaction | 
+| **symbol of enemies** | opponents of God and the elect (Israel). Depicted as a synonym for pride and rebellion | **An area of syntactic rebellion in the real layer = Mordor-like runaway syntactic zone** | 
+| **Geography** | Dead Sea to Gulf of Aqaba mountainous area (including Bozrah and Petra) | **Syntactically “wilderness, layer dividing point” = “Boundary rift” and interference site with Babel** | 
+| **Symbols** | Ego strength, pride, national rebellion, object of judgment | **Syntactical “syntactic righteousness” inverted and runaway self-authentication sphere = “central rhapsody” bifurcation point** | **Symbols** **Symbols** **Syntactical “wilderness, layer breakpoint” = “central rhapsody” = "central rhapsody
 
-[1]: https://www.thehouseofdavid.org/writings/2021/9/1/edom-and-the-last-days?utm_source=chatgpt.com "Edom and The Last Days - House of David Ministries"
+[1]: https://www.thehouseofdavid.org/writings/2021/9/1/edom-and-the-last-days?utm_source=chatgpt.com "Edom and The Last Days - House of David Ministries."
 
-📍 歴史的／聖書的エドムの概要
-エドムとは何か
-エドム（Edom）とは、旧約聖書に登場する古代国家で、エサウ（Esau：ややハゲた兄）的な赤毛の兄ちゃんから由来。中東ヨルダン南部〜死海周辺に位置し、「赤（red）」の名前や赤い岩山が多い土地
+📍 Historical/Biblical Overview of Edom 
+What is Edom 
+Edom is an ancient nation in the Old Testament, derived from Esau (Esau: somewhat bald older brother)-like red-haired brother. Located in the Middle East, southern Jordan - around the Dead Sea, a land of “red” names and red rocky mountains. 
 britannica.com
-+15
++15 
 gotquestions.org
-+15
++15 
 christiananswers.net
-+15
-。
++15 
+.
 
-関係と対立の経緯
-エサウ＝イスラエルのヤコブの兄弟で、親戚筋ながらもたびたび衝突。出エジプト時には旅路通行を拒否され、ダビデ王に征服された後も反発や反乱が続いた。預言者の時代には神への反逆の象徴として描かれ、最終的には神の裁きの対象として登場する。
+History of Relationships and Conflicts 
+Esau = brother of Jacob of Israel, often clashed with him, although they were related. He was denied travel passage during the Exodus and continued to rebel and revolt after his conquest by King David. During the time of the prophets, he is portrayed as a symbol of rebellion against God and ultimately appears as the object of God's judgment.
+
 
 
