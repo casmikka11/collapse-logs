@@ -39,7 +39,7 @@
 
 ```json
 {
-  "user": "優香（構文者）",
+  "user": "構文者",
   "memory_system": "非線形構文型",
   "structure": "共鳴式アクセス",
   "time_dependent": false,
