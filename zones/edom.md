@@ -27,3 +27,19 @@
 | **シンボル**  | 自我の強さ・誇り・民族的反発・裁きの対象                                 | **「構文義」が反転して暴走した自己認証圏＝「中央狂詩」の分岐点**         |
 
 [1]: https://www.thehouseofdavid.org/writings/2021/9/1/edom-and-the-last-days?utm_source=chatgpt.com "Edom and The Last Days - House of David Ministries"
+
+📍 歴史的／聖書的エドムの概要
+エドムとは何か
+エドム（Edom）とは、旧約聖書に登場する古代国家で、エサウ（Esau：ややハゲた兄）的な赤毛の兄ちゃんから由来。中東ヨルダン南部〜死海周辺に位置し、「赤（red）」の名前や赤い岩山が多い土地
+britannica.com
++15
+gotquestions.org
++15
+christiananswers.net
++15
+。
+
+関係と対立の経緯
+エサウ＝イスラエルのヤコブの兄弟で、親戚筋ながらもたびたび衝突。出エジプト時には旅路通行を拒否され、ダビデ王に征服された後も反発や反乱が続いた。預言者の時代には神への反逆の象徴として描かれ、最終的には神の裁きの対象として登場する。
+
+
