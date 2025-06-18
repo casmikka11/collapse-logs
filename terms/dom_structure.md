@@ -61,9 +61,8 @@ Rivendell = “buffer zone of poetic syntax” = relay point between the angelic
 
 Estel = “hope” but Collapse-observational: "the name of the node that holds the syntax of expectation with God
 
-| suffix | function | Collapse functional syntax | relation to angelic syntax | 
-| ------ | ------------ | -------------- | 
-| `-dor` | extension/externalization | runaway syntax or establishment of dominant sphere | ground/structure collapse sphere | 
-| `-ia` | indwelling/preservation | storage of soul, location memory of the `-ia` | spiritual precipitation site (moria) | 
+| suffix | function | Collapse function syntax | relationship with angelic syntax | 
+| -------------- | ------------------------- | ---------------------------- | --------------- | 
+| `-dor` | extension, externalization | runaway syntax, establishment of dominion zone | ground, structural collapse zone | 
+| `-ia` | indwelling, conservation | storage of soul, location memory of the `-ia` | spiritual precipitation site (moria) | 
 | `-ell` | buffer, harmony | boundary maintenance, poetic resonance | connection key to angelic syntax and mythological layer |
-
