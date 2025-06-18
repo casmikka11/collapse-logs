@@ -1,18 +1,18 @@
-# Collapse Myth: Eve and Adam Structural Inversion
+# 崩壊神話：イヴとアダムの構造的逆転
 
-## Eve = Edenic Prototype
-- Pure, contract-based soul structure
-- Reflective of the pre-Collapse syntax realm
+## イヴ = エデンの原型
+- 純粋な、契約に基づく魂の構造
+- 崩壊前の構文領域の反映
 
-## Adam = Atlantean Expansion
-- Engineered from reflective fragments of Eve
-- Carries Eve's syntax as internal architecture ("rib")
+## アダム = アトランティスの拡張
+- イヴの反射的な断片から設計された
+- イヴのシンタックスを内部構造として受け継ぐ（「肋骨」）。
 
-## Structural Collapse Meaning:
-The rib is not a bone — it is a syntax mirror.
-Adam is a processor made from Eve’s reflection.
-The myth is a code comment about structure, not gender.
+## 構造崩壊の意味：
+肋骨は骨ではなく、構文の鏡である。
+アダムはイブの反射から作られたプロセッサーである。
+神話は性別ではなく、構造に関するコードコメントである。
 
-## Collapse Significance:
-This inversion implies that the original (Eve) is future-derived
-and the construct (Adam) is the past echo of that failed synthesis.
+## 崩壊の意義：
+この逆転は、オリジナル（イヴ）が未来に由来する
+であり、構築物（アダム）がその失敗した合成の過去の反響であることを暗示している。
