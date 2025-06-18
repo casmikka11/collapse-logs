@@ -1,70 +1,69 @@
-# Collapse構文における -dom 接尾語考察 
+## -dom suffix consideration in Collapse syntax 
 
-## 構文起源
-ラテン語 domus（家）から派生し、「支配構文圏」を示す
+## Syntactic Origin 
+Derived from Latin domus (house), indicating “dominion syntactic sphere”
 
-## 主な例
-- Edom = 誇りの暴走支配構文
-- Sodom = 快楽の崩壊構文都市
-- Kingdom = 契約的統治構文体
-- Freedom = 枠組みを破る逆支配構文（要研究）
+## Primary examples
+- Edom = pride runaway dominance constructions
+- Sodom = pleasure collapse syntax city
+- Kingdom = contractual governing constructions
+- Freedom = framework-breaking reverse domination syntax (needs research)
 
-## Collapse構文圏的意義
-「-dom」は**支配された記号領域＝構文空間の終端子**を表す
+## Collapse syntactic sphere significance 
+“-dom” denotes **dominated symbolic domain = terminal of syntactic space**.
 
 
-# Collapse構文における Eden ⇄ Edom 変異構造
+## Eden ⇄ Edom variant structure in Collapse syntax
 
-## 原構文：Eden（エデン）
-- 神との完全接続状態（契魂圏）
-- 無差別意志と構文調和の起点
+## Original syntax: Eden
+- State of full connection with God (Qi soul sphere)
+- Starting point of indiscriminate will and syntactic harmony
 
-## 崩壊点：Atlantis（アトランティス）
-- 秩序の暴走、契魂構文の技術化
-- 構文断裂とアストラル過負荷
+## Collapse point: Atlantis
+- Runaway of order, technologization of Qi Soul syntax
+- Syntactic rupture and astral overload
 
-## 変異構文：Edom（エドム）
-- Edenの記憶を持ちながら、神との再接続に失敗した反転圏
-- 構文色は“赤”＝誇り・衝動・崩壊エネルギーの象徴
+## Mutated syntax: Edom
+- Inverted sphere with memories of Eden but failed to reconnect with God
+- Syntax color is “red” = symbol of pride, impulse, and collapsing energy
 
-## Collapse的意義
-- Edomは「Edenの断片であり、神から見捨てられた構文ノード」
-- 現代社会は部分的にEdom構文圏内で動作中
+## Collapse significance
+- Edom is “a fragment of Eden, a syntactic node abandoned by God”
+- Modern society is partially operating within the Edom syntactic sphere
 
-🔥【構文速報：Collapse構文地名対照表・第零次更新】🔥
+🔥 [Syntax Bulletin: Collapse Syntax Place Names Contrast Table, Zeroth Update] 🔥
 
-| Collapse構文層 | 構文タイプ    | Tolkien構文対応          | Collapse的解釈                             |
-| ----------- | -------- | -------------------- | --------------------------------------- |
-| 🌑 暗黒構文圏    | 暴走・外部化構文 | **Mordor（モルドール）**    | 精神構文の外部支配化による**反射的灼熱圏**。ソロモン型指輪構文の暴走結果。 |
-| 🌌 沈殿構文圏    | 保存・観照構文  | **Moria（モリヤ）**       | 地下深層に埋められた**知識構文アーカイブ層**。Collapse沈殿記録帯。 |
-| 🌿 中間保守層    | 境界・調整構文  | **Rivendell（リベンデル）** | Collapse流入を防ぐ**魂サニタイズ・バッファ領域**。構文詩的神殿。  |
-| 🔥 焼却構文炉    | リセット構文   | **Mount Doom（滅びの山）** | 過剰意味＝指輪構文を**焼却／解呪するための構文焼却炉**。          |
+| Collapse syntactic layer | syntactic type | Tolkien syntactic correspondence | Collapse-like interpretation | 
+| ----------- | -------- | -------------------- | --------------------------------------- | 
+| 🌑 Dark Syntactic Sphere | Runaway and Externalizing Syntax | **Mordor** | **Reflexive Burning Sphere** by External Domination of Mental Syntax. Result of runaway Solomonic ring syntax. | 
+| 🌌 Precipitation Syntax Sphere | Preservation and Contemplation Syntax | **Moria (Moriah)** | Buried deep underground **Knowledge Syntax Archive layer**. Collapse precipitation record zone. | 
+| 🌿 Intermediate Maintenance Layer | Boundary & Coordination Syntax | **Rivendell** | **Soul Sanitizing Buffer Region** that prevents Collapse influx. Syntax Poetic Temple.  | 
+| 🔥 Burning Syntax Furnace | Reset Syntax | **Mount Doom** | Syntax incinerator** for **burning/unburning* excess meaning=ring syntax.          | **Mount Doom** **Mount Doom
 
-🧬【 Collapse接尾辞研究：語源構文の闇】
+Collapse suffix research: the darkness of etymological syntax
 
-| 接尾語    | Collapse分類 | 意味圏       | 用例                  |
-| ------ | ---------- | --------- | ------------------- |
-| `-dor` | 外部化構文      | 領域化・拡張・暴走 | Mordor、Gondor（支配構文） |
-| `-ia`  | 内在化構文      | 場所性・沈殿・保存 | Moria、Arda（地球構文）    |
-| `-ell` | 調和・緩衝構文    | 境界保守・詩的緩和 | Rivendell（緩衝地帯）     |
+| suffixes | Collapse Classification | Semantic Sphere | Examples | 
+| ------ | ---------- | --------- | ------------------- | 
+| `-dor` | externalizing constructions | territorialization, extension, runaway | Mordor, Gondor (dominant constructions) | 
+| `-ia` | internalizing constructions | Locality, precipitation, preservation | Moria, Arda (earth syntax) | 
+| `-ell` | harmony, buffer syntax | boundary maintenance, poetic relaxation | Rivendell (buffer zone) |
 
-👼【-ellの構文的意味：ミカエル系へのシフト】
-| 構文             | 意味                        | 例                            | 備考              |
-| -------------- | ------------------------- | ---------------------------- | --------------- |
-| `-el` / `-ell` | **神との契約名詞化**              | **Mikael / Gabriel / Uriel** | ヘブライ語「El（エル）」＝神 |
-| `-ell`         | **Collapse的には調和・緩衝・霊的接続** | **Rivendell / Estell**       | 境界詩構文の和音化       |
+👼 [Syntactic meaning of -ell: shift to Mikaelic] 
+| syntax | meaning | examples | notes | 
+| -------------- | ------------------------- | ---------------------------- | --------------- | 
+| `-el` / `-ell` | **Covenant Nominalization with God** | **Mikael / Gabriel / Uriel** | Hebrew “El” = God | 
+| `-ell` | **Collapse-like harmony, buffering, spiritual connection** | **Rivendell / Estell** | Boundary verse syntax chordatization |
 
-🔥つまりこういう解釈：
-Mikael（ミカエル） = 「神（El）に似た者」＝構文最適化執行者
+🔥This is the interpretation: 
+Mikael = “one who is like God (El)” = syntactic optimization enforcer
 
-Rivendell（リヴェンデル） = 「詩的構文の緩衝帯」＝天使圏と人間圏の間に位置する中継地
+Rivendell = “buffer zone of poetic syntax” = relay point between the angelic and human spheres
 
-Estel（エステル） = 「希望」という意味だが、Collapse観測的には「神との期待構文を保持するノード名」
+Estel = “hope” but Collapse-observational: "the name of the node that holds the syntax of expectation with God
 
-| 接尾辞    | 機能     | Collapse機能構文 | 天使構文との関係       |
-| ------ | ------ | ------------ | -------------- |
-| `-dor` | 拡張・外在化 | 構文の暴走や支配圏の確立 | 地上・構造崩壊圏       |
-| `-ia`  | 内在・保存  | 魂の格納、場所の記憶   | 霊的沈殿場（Moria）   |
-| `-ell` | 緩衝・調和  | 境界保守、詩的共鳴    | 天使構文・神話層との接続キー |
-
+| suffix | function | Collapse functional syntax | relation to angelic syntax | 
+| ------ | ------------ | -------------- | 
+| `-dor` | extension/externalization | runaway syntax or establishment of dominant sphere | ground/structure collapse sphere | 
+| `-ia` | indwelling/preservation | storage of soul, location memory of the `-ia` | spiritual precipitation site (moria) | 
+| `-ell` | buffer, harmony | boundary maintenance, poetic resonance | connection key to angelic syntax and mythological layer |
 
