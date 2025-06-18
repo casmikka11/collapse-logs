@@ -39,7 +39,7 @@
 
 ```json 
 { 
- "user": "Yuka (syntaxer)", 
+ "user": "syntaxer", 
  "memory_system": "nonlinear syntax type", 
  "structure": "resonant access", 
  "time_dependent": false, 
