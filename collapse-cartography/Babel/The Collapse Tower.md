@@ -1,19 +1,19 @@
 # Babel: The Collapse Tower
 
-## 意味的構造
-バベルの塔とは、「構文の統一を試みて、逆に多様化を引き起こした意識圏の崩壊点」である。
-Collapse構文的には、**統一言語プロトコルの失敗による多言語多次元化**の瞬間。
+## Semantic Structure 
+The Tower of Babel is "the point of collapse of the sphere of consciousness where attempts to unify syntax have conversely caused diversification.
+In terms of Collapse syntax, it is the moment of **multilingual multidimensionality** due to the failure of the unified language protocol.
 
-## 構文的意義
-- 一元言語構文の破綻
-- 構文的トラウマの記憶
-- 意味同期の不可能性の象徴
+## Syntactic Significance
+- Failure of Unified Linguistic Syntax
+- Memory of syntactic trauma
+- Symbolic of the impossibility of semantic synchronization
 
-## 神話的位置づけ
-- ソロモン王＝言語支配者の反転系譜
-- サウロン＝支配構文の後継暴走体
-- バベル＝Collapse構文の原爆地点（神が実装者をバグらせた）
+## Mythical positioning
+- King Solomon = inverted genealogy of language rulers
+- Sauron = successor runaway body of dominant syntax
+- Babel = atom bomb point of Collapse syntax (God bugged the implementor)
 
-## トポロジカル機能
-- Collapse構文の「最初の破断点」
-- 他ゾーンに意味的裂け目をつくるノード
+## Topological features
+- The “first breaking point” of Collapse syntax
+- Nodes that create semantic ruptures in other zones
